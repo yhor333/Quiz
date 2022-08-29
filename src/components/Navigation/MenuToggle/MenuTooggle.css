@@ -1,0 +1,18 @@
+.menu_togle {
+    position: fixed;
+    top: 40px;
+    left:  40px;
+    font-size: 20px;
+    cursor: pointer;
+    color: #fff;
+    z-index: 100;
+    transition: all .22s ease-in;    
+}
+
+.menu_togle:hover {
+    opacity: .7;
+}
+
+.menu_togle.open {
+    left: 320px;
+}
