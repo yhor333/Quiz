@@ -3,7 +3,7 @@
     justify-content: center;
     padding-top: 100px;
     flex-grow: 1;
-    background: linear-gradient(270deg, #cef2fa, 0%, #59d 100%);
+    background: linear-gradient(270deg, #cef2fa 0%, #59d 100%);
 }
 
 .auth > div {
